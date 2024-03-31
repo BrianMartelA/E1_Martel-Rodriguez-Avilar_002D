@@ -1,31 +1,41 @@
-.image{
-    max-width: 100%;
-    width: 500px;  
-}
 
-.margen{
-    margin-top: 1%;
-    margin-bottom: 5%;
-}
 
 .fondo{
     background-color: bisque;
-    width: 90%;
+    width: 40%;
+    height: 150px;
     margin-left: 5%;
 }
 
-.row{
-    display: flex;
-    width: 100%;
-
-}
-
-.imagen{
+.fondo_div {
+    width: 20%;
+    height: 20%;
+    overflow: hidden;
+    margin-left: 5%;
     background-color: bisque;
-    width: 50%;
+    margin-left: 5%;
+    padding-bottom: 1%;
+    border-radius: 20px;
+  }
+
+
+  .imagen{
+    width:85% ;
+    height:80% ;
+    margin-top: 2%;
+  }
+  .fondo_div:hover{
+    transform: scale(1.5);
+  }
+
+  .box{
+    width: 100%;
+  min-width: 300px;
+  max-width: 800px;
+  height: 200px;
+  word-wrap: break-word;
+  overflow: auto;
  
-}
-.descripcion{
-    background-attachment: #d3d2c9;
-    width: 50%;
-}
+
+  }
+  
