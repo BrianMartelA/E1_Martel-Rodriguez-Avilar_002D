@@ -2,8 +2,30 @@
     max-width: 100%;
     width: 500px;  
 }
-.box1{
-    background-color: #000;
-    color: #fff;
-    opacity: .5;
+
+.margen{
+    margin-top: 1%;
+    margin-bottom: 5%;
+}
+
+.fondo{
+    background-color: bisque;
+    width: 90%;
+    margin-left: 5%;
+}
+
+.row{
+    display: flex;
+    width: 100%;
+
+}
+
+.imagen{
+    background-color: bisque;
+    width: 50%;
+ 
+}
+.descripcion{
+    background-attachment: #d3d2c9;
+    width: 50%;
 }
