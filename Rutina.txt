@@ -1,0 +1,4 @@
+Reloj y calendario
+https://es.scribd.com/document/138247372/RUTINAS-Javascript-Web
+Carro de compras
+https://programadorwebvalencia.com/javascript-ejemplo-carrito-de-compra/
